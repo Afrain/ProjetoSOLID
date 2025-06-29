@@ -1,0 +1,14 @@
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\bin\Debug\net9.0\MeuProjetoConsole.exe
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\bin\Debug\net9.0\MeuProjetoConsole.deps.json
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\bin\Debug\net9.0\MeuProjetoConsole.runtimeconfig.json
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\bin\Debug\net9.0\MeuProjetoConsole.dll
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\bin\Debug\net9.0\MeuProjetoConsole.pdb
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\MeuProjetoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\MeuProjetoConsole.AssemblyInfoInputs.cache
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\MeuProjetoConsole.AssemblyInfo.cs
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\MeuProjetoConsole.csproj.CoreCompileInputs.cache
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\MeuProjetoConsole.dll
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\refint\MeuProjetoConsole.dll
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\MeuProjetoConsole.pdb
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\MeuProjetoConsole.genruntimeconfig.cache
+C:\Users\afrain.calixto\Desktop\ProjetoSOLID\MeuProjetoConsole\obj\Debug\net9.0\ref\MeuProjetoConsole.dll
