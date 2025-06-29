@@ -47,5 +47,5 @@ A interface `INotificacao` é simples e enxuta. Nenhuma classe é forçada a imp
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/afrain/solid-aplicado-sistema-de-pedidos.git
+git clone https://github.com/Afrain/ProjetoSOLID.git
 ```
